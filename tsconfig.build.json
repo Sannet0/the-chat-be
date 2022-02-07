@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "real-time-data-transmission/node_modules",
+    "test", "dist", "**/*spec.ts"]
+}
